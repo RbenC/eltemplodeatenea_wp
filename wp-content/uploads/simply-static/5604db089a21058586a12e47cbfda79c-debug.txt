@@ -110,3 +110,6 @@
 [2024-06-09 23:45:06] [class-ss-archive-creation-job.php:136] Current task: cancel
 [2024-06-09 23:45:06] [class-ss-archive-creation-job.php:153] Performing task: cancel
 [2024-06-09 23:45:06] [class-ss-task.php:44] Status message: [cancel] Cancelling job
+[2024-06-09 23:50:12] [class-ss-archive-creation-job.php:136] Current task: cancel
+[2024-06-09 23:50:12] [class-ss-archive-creation-job.php:153] Performing task: cancel
+[2024-06-09 23:50:12] [class-ss-task.php:44] Status message: [cancel] Cancelling job
